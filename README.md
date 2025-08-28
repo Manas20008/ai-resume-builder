@@ -86,41 +86,21 @@ Open http://localhost:5173
  to view the app.
 
 📄 Usage
-
-Open the frontend in your browser: http://localhost:5173
-
-Upload your resume (PDF or DOCX).
-
-Click Check All Jobs or Check ATS Score for each job.
-
-View match scores, matched skills, and missing skills in a clear, color-coded dashboard.
-
-Repeat with different resumes to test matching with multiple job listings.
-
+•	Open the frontend in your browser: http://localhost:5173
+•	Upload your resume (PDF or DOCX).
+•	Click Check All Jobs or Check ATS Score for each job.
+•	View match scores, matched skills, and missing skills in a clear, color-coded dashboard.
+•	Repeat with different resumes to test matching with multiple job listings.
+________________________________________
 💡 Future Enhancements
-
-Add user authentication to save and manage resumes per user.
-
-Allow users to upload custom job listings.
-
-Include charts and graphs for visual skill match analysis.
-
-Enable exportable reports (PDF/Excel) for ATS scores.
-
-Add real-time notifications for new job matches.
-
+•	Add user authentication to save and manage resumes per user.
+•	Allow users to upload custom job listings.
+•	Include charts and graphs for visual skill match analysis.
+•	Enable exportable reports (PDF/Excel) for ATS scores.
+•	Add real-time notifications for new job matches.
+________________________________________
 📄 License
-
-This project is released under the MIT License:
-
-You can use, modify, and distribute the project freely.
-
-No warranty is provided.
-
-Attribution to the original author (Manas Mahajan) is recommended.
-
-Add charts for skill match visualization
-
-📄 License
-
-This project is MIT Licensed. Feel free to use, modify, and distribute.
+•	This project is released under the MIT License.
+•	You can use, modify, and distribute the project freely.
+•	No warranty is provided.
+•	Attribution to the original author (Manas Mahajan) is recommended.
