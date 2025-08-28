@@ -1,0 +1,38 @@
+[
+  {
+    "id": "job1",
+    "title": "Full-Stack Developer",
+    "company": "TechNova",
+    "location": "Remote",
+    "type": "Full-time",
+    "skills": ["javascript", "react", "node", "express", "mongodb", "git", "rest api"],
+    "description": "Build and maintain full-stack features using React, Node.js, Express, and MongoDB. Collaborate with designers, write clean code, build REST APIs, and deploy frequently."
+  },
+  {
+    "id": "job2",
+    "title": "Backend Engineer (Node.js)",
+    "company": "DataForge",
+    "location": "Bengaluru",
+    "type": "Full-time",
+    "skills": ["node", "express", "typescript", "postgresql", "docker", "aws"],
+    "description": "Design and optimize scalable APIs in Node.js with Express/TypeScript. Use PostgreSQL, Docker, and AWS services. Focus on performance and reliability."
+  },
+  {
+    "id": "job3",
+    "title": "Machine Learning Engineer",
+    "company": "InsightAI",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "skills": ["python", "pandas", "numpy", "scikit-learn", "tensorflow", "nlp", "mlops"],
+    "description": "Build ML pipelines for NLP and tabular data, train and evaluate models with scikit-learn and TensorFlow, and collaborate with infra on MLOps."
+  },
+  {
+    "id": "job4",
+    "title": "Frontend Engineer (React)",
+    "company": "PixelWorks",
+    "location": "Remote",
+    "type": "Full-time",
+    "skills": ["javascript", "react", "redux", "html", "css", "testing"],
+    "description": "Develop beautiful, responsive UIs in React with strong JavaScript fundamentals. Write tests and collaborate closely with design."
+  }
+]
