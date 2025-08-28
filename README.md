@@ -87,25 +87,37 @@ Open http://localhost:5173
 
 📄 Usage
 
+Open the frontend in your browser: http://localhost:5173
+
 Upload your resume (PDF or DOCX).
 
-Click Check All Jobs or Check ATS Score per job.
+Click Check All Jobs or Check ATS Score for each job.
 
-View match scores, matched skills, and missing skills in a beautiful card layout.
+View match scores, matched skills, and missing skills in a clear, color-coded dashboard.
 
-🔗 Demo
-
-Backend: http://127.0.0.1:8000
-
-Frontend: http://localhost:5173
+Repeat with different resumes to test matching with multiple job listings.
 
 💡 Future Enhancements
 
-Add user authentication
+Add user authentication to save and manage resumes per user.
 
-Save resume history per user
+Allow users to upload custom job listings.
 
-Allow custom job listings upload
+Include charts and graphs for visual skill match analysis.
+
+Enable exportable reports (PDF/Excel) for ATS scores.
+
+Add real-time notifications for new job matches.
+
+📄 License
+
+This project is released under the MIT License:
+
+You can use, modify, and distribute the project freely.
+
+No warranty is provided.
+
+Attribution to the original author (Manas Mahajan) is recommended.
 
 Add charts for skill match visualization
 
